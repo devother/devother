@@ -20,7 +20,7 @@ I am a passionate engineer who finds joy in creating efficient, elegant, and wor
 *   **SQL**: The fundamental foundation. I write efficient queries and design reliable schemas.
 *   **NoSQL**: Various databases for creating scalable solutions.
 
-![Footer](https://github.com/devother/devother/img/lets_work.jpg)
+![Footer](https://github.com/devother/devother/blob/main/img/lets_work.jpg?raw=true)
 <div align="center"> 
   <h1>Let's GO! 🚀</h1>
 </div>
