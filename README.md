@@ -20,10 +20,9 @@ I am a passionate engineer who finds joy in creating efficient, elegant, and wor
 *   **SQL**: The fundamental foundation. I write efficient queries and design reliable schemas.
 *   **NoSQL**: Various databases for creating scalable solutions.
 
----
-
-<div align="center">
-  <img src="https://github.com/devother/zooroman/blob/main/img/lets_work.jpg" alt="Описание" width="400">
+<!-- --- -->
+![Footer](https://github.com/devother/zooroman/blob/main/img/lets_work.jpg)
+<div align="center"> 
   <h1>Let's GO! 🚀</h1>
 </div>
 
