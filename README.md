@@ -11,10 +11,10 @@ I am a passionate engineer who finds joy in creating efficient, elegant, and wor
 ### 💻 My Tech Toolbox
 
 **Backend & Systems:**
-*   **[Python](https://github.com/devother/python)**: For rapid prototyping, scripts, Data Science, and web frameworks (e.g., Django/FastAPI).
 *   **[Go (Golang)](https://github.com/devother/golang)**: When I need maximum performance, efficiency, and simplicity for building scalable systems.
-*   **[ABAP](https://github.com/devother/abap)**: My bridge to the world of enterprise SAP solutions. I know how to make business logic work at the corporate level.
 *   **[PHP](https://github.com/devother/php)**: My first backend language where I got acquainted with CRUD operations and built my first simple CMS.
+*   **[ABAP](https://github.com/devother/abap)**: My bridge to the world of enterprise SAP solutions. I know how to make business logic work at the corporate level.
+*   **[Python](https://github.com/devother/python)**: For rapid prototyping, scripts, Data Science, and web frameworks (e.g., Django/FastAPI).
 
 **Databases:**
 *   **SQL**: The fundamental foundation. I write efficient queries and design reliable schemas.
