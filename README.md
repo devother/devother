@@ -20,7 +20,27 @@ I am a passionate engineer who finds joy in creating efficient, elegant, and wor
 
 ![Footer](https://github.com/devother/devother/blob/main/img/lets_work.jpg?raw=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devother&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,javascript&custom_title=📊%20Code%20Statistics)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devother&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,javascript&custom_title=📊%20Code%20Statistics) -->
+
+<p>
+  <picture>
+    <!-- Для темной темы -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devother&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,javascript&custom_title=📊%20Code%20Statistics"
+    >
+    <!-- Для светлой темы -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devother&layout=compact&theme=default&hide_border=true&langs_count=6&hide=html,css,javascript&custom_title=📊%20Code%20Statistics&bg_color=ffffff&title_color=0969da&text_color=24292e"
+    >
+    <!-- Фолбэк изображение -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devother&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,javascript&custom_title=📊%20Code%20Statistics" 
+      alt="📊 Code Statistics"
+    >
+  </picture>
+</p>
 
 
 
